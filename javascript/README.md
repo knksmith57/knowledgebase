@@ -6,7 +6,7 @@ A [Dmitriy Navrotskyy](http://dypsilon.com) has a giant [collection of frontend 
 
 TOC
 ---
-- [Talks / Video](#talks-video)
+- [Talks / Video](#talks--video)
   - [Frontend](#frontend)
   - [Serverside](#serverside)
 
