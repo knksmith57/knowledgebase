@@ -1,4 +1,3 @@
-
 JavaScript
 ==========
 
@@ -7,9 +6,9 @@ A [Dmitriy Navrotskyy](http://dypsilon.com) has a giant [collection of frontend 
 
 TOC
 ---
-- [Talks / Video]
-  - [Frontend]
-  - [Serverside]
+- [Talks / Video](#talks-video)
+  - [Frontend](#frontend)
+  - [Serverside](#serverside)
 
 
 Talks / Video
